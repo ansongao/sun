@@ -1,0 +1,30 @@
+.order_cancel .index_but a {
+    display: inline-block;
+    box-sizing: border-box;
+    width: 136px;
+    height: 61px;
+    border: 1px solid #439AFF;
+    border-radius: 10px;
+    font-size: 22px;
+    text-align: center;
+    line-height: 61px;
+    color: #439AFF;
+}
+
+.order_cancel .index_but a.btn-confirm {
+    background-color: #439AFF;
+    color: #FFFFFF;
+}
+
+.order_cancel .index_but a {
+    display: inline-block;
+    box-sizing: border-box;
+    width: 136px;
+    height: 61px;
+    border: 1px solid #439AFF;
+    border-radius: 10px;
+    font-size: 22px;
+    text-align: center;
+    line-height: 61px;
+    color: #439AFF;
+}
